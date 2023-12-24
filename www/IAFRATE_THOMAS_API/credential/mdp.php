@@ -1,6 +1,6 @@
 <?php
 
-namespace credentials;
+namespace credential;
 
 class mdp
 {
